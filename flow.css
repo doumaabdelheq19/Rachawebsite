@@ -1,0 +1,146 @@
+                             body {
+                                 margin: 0;
+                                 padding: 0;
+                                 margin: 0;
+                                 background-color: rgb(26, 26, 26);
+                                 text-align: center;
+                             }
+                             
+                             .Home {
+                                 display: flex;
+                                 justify-content: space-evenly;
+                                 gap: 30px;
+                             }
+                             
+                             .logo {
+                                 display: flex;
+                                 width: 100px;
+                             }
+                             
+                             .logo img {
+                                 height: 40px;
+                                 width: 40px;
+                                 margin-top: 12px;
+                                 margin-right: 5px;
+                             }
+                             
+                             .flow {
+                                 margin: 15px;
+                                 color: rgb(255, 255, 255);
+                                 font-family: sans-serif;
+                             }
+                             
+                             .container {
+                                 font-family: sans-serif;
+                                 color: rgb(255, 255, 255);
+                                 display: flex;
+                                 justify-content: space-around;
+                             }
+                             
+                             .button-orange {
+                                 margin: 12px;
+                                 padding: 0px 15px;
+                                 font-size: 14px;
+                                 color: #eca343;
+                                 background-color: rgb(26, 26, 26);
+                                 border: 2px solid #eca343;
+                                 border-radius: 5px;
+                                 cursor: pointer;
+                             }
+                             
+                             .button-orange:hover {
+                                 background-color: #eca343;
+                                 color: rgb(26, 26, 26);
+                             }
+                             
+                             .button-purple {
+                                 display: inline-block;
+                                 text-align: center;
+                                 margin-top: -10px;
+                                 padding: 12px 20px;
+                                 font-size: 14px;
+                                 background-color: #383ace;
+                                 color: rgb(255, 255, 255);
+                                 border: none;
+                                 border-radius: 5px;
+                                 cursor: pointer;
+                                 margin-bottom: 80px;
+                             }
+                             
+                             .button-purple:hover {
+                                 background-color: rgb(26, 26, 26);
+                                 color: #383ace;
+                                 border: 2px solid #383ace;
+                             }
+                             
+                             .centered {
+                                 display: flex;
+                                 align-items: center;
+                                 justify-content: center;
+                                 height: 70vh;
+                                 margin-top: 0px;
+                                 padding: 0;
+                                 text-align: center;
+                                 flex-direction: column;
+                             }
+                             
+                             .centered h1 {
+                                 font-size: 65px;
+                                 margin: 20px;
+                             }
+                             
+                             p {
+                                 margin: 0;
+                             }
+                             
+                             .flowtoday h1 {
+                                 font-size: 40px;
+                             }
+                             
+                             .statistics {
+                                 width: 80%;
+                                 display: flex;
+                                 justify-content: space-evenly;
+                                 text-align: center;
+                                 background-color: rgb(36, 36, 36);
+                                 margin-top: 50px;
+                                 padding: 20px 0;
+                                 margin-left: 10%;
+                                 margin-right: 10%;
+                                 margin-bottom: 150px;
+                                 border-radius: 20px;
+                             }
+                             
+                             .flowtoday {
+                                 margin-top: 60px;
+                                 padding-top: 30px;
+                                 padding-bottom: 25px;
+                             }
+                             
+                             .column {
+                                 background-color: rgb(255, 255, 255);
+                                 color: rgb(36, 36, 36);
+                                 border-radius: 20px;
+                                 padding: 40px;
+                             }
+                             
+                             .mainstream {
+                                 margin-top: 30px;
+                                 padding: 70px;
+                                 display: flex;
+                                 justify-content: space-around;
+                             }
+                             
+                             .build h1 {
+                                 font-size: 55px;
+                             }
+                             
+                             .column img {
+                                 width: 55px;
+                                 height: 55px;
+                             }
+                             
+                             .column p {
+                                 margin-top: 20px;
+                                 font-size: 17px;
+                             }
